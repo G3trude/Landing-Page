@@ -601,6 +601,9 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .img-thumbnail {
@@ -10947,7 +10950,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/Coder.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
